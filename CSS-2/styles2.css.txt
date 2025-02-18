@@ -1,0 +1,26 @@
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+    <a href="task_main.html">Вернуться к списку заданий</a>
+    <p class="red" style="color: red;">Это красный текст</p>
+    <p class="red" style="color: red;">Это тоже красный текст</p>
+    <p class="italic" style="font-style: italic;">Это курсивный текст</p>
+    <p class="bold"><strong>Это тоже полужирный</strong> текст</p>
+    <p>Все элементы следующего списка (включая подсписок) имеют разные цвета и ни один из них не чёрный:</p>
+    <ul>
+        <li style="color: green;">Элемент списка</li>
+        <ol>
+            <li style="color: red;">Первый элемент подсписка</li>
+            <li style="color: red;">Второй элемент подсписка</li>
+        </ol>
+        <li style="color: green;">Ещё один элемент списка</li>
+    </ul>
+    <p>
+        <span style="font-size: xx-small;">В</span>
+        <span style="font-size: x-small;">этом</span>
+        <strong style="font-size: medium;">абзаце</strong>
+        <span style="font-size: large;">все</span>
+        <span style="font-size: large;">слова</span>
+        <span style="font-size: small;">разного</span>
+        <span style="font-size: xx-large;">размера</span>
+    </p>
